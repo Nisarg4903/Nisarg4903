@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/Nisarg4903/Nisarg4903/blob/main/wallpaperflare.com_wallpaper.jpg)
 <h1 align="center">Hi 👋, I'm Nisarg Patel</h1>
 <h3 align="center">Explorer of code, conqueror of challenges.</h3>
 
