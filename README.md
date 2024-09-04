@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nisarg Patel</h1>
-<h3 align="center">Explorer of code, conqueror of challenges.</h3>
 
 <img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/bCfpwMjfAi0AAAAC/cat-typing.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nisarg4903&label=Profile%20views&color=0e75b6&style=flat" alt="nisarg4903" /> </p>
 
-- 🌱 I’m currently learning **React, Django, Vue, Laravel.**
+- 🌱 I’m currently learning **React, Django**
 
 - 👨‍💻 All of my projects are available at [https://soft-bavarois-1e6240.netlify.app](https://soft-bavarois-1e6240.netlify.app)
 
